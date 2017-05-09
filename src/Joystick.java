@@ -196,7 +196,7 @@ public class Joystick extends JPanel {
 
 		printAllParameters();
 
-		frame = new JFrame("bla");
+		frame = new JFrame("Joystick");
 		frame.setSize(windowPositionX, windowPositionY);
 		frame.getContentPane().setLayout(null);
 
